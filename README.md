@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Metssye
 - 👀 I’m interested in AI, Python, NLP, BN and so on...
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently working on a personal project
 - 💞️ I’m looking to collaborate on ... (later :))
 - 📫 How to reach me ...
 
